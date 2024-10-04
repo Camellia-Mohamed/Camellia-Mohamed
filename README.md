@@ -12,8 +12,8 @@
   
 - :student: `Computer Science Student` at the Faculty of Computers and Information Systems at Luxor University.
 - :trophy: `ECPC` Finalist.
-- :computer: Competitive programmer at `Codeforces`, `Leetcode`, `Codechef`.
-- :technologist: Currently learning `Backend Development with .Net`.
+- :computer: Competitive programmer at `Codeforces`, `Atcoder`, `Codechef`.
+- :technologist: Currently learning `AI Engneering`.
   
   <br>
 </p>
