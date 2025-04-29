@@ -11,7 +11,7 @@
   <br>
   
 - :student: `Computer Science Student` at the Faculty of Computers and Information Systems at Luxor University.
-- :trophy: `ECPC` Finalist.
+- :trophy: 2x`ECPC` Finalist & 🥉 Bronze Medalist ACPC GIRLS .
 - :computer: Competitive programmer at `Codeforces`, `Atcoder`, `Codechef`.
 - :technologist: Currently learning `AI Engneering`.
   
