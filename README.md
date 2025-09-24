@@ -37,14 +37,15 @@
 
 ## 🚀 Featured Projects
 
-- 🧠 [Image Sentiment Analysis](https://github.com/Camellia-Mohamed/Image_Sentiment_Analysis)  
-  Web app that extracts text from images using OCR and performs sentiment analysis using machine learning.
 
 - 🌍 [Rahhal – Smart Travel Planner](https://github.com/AhmedYahia74/Egypt-Smart-Journey-Planner)  
   AI-powered travel assistant chatbot using NLP, SBERT embeddings, and Rasa for trip recommendations.
 
-- 📊 Telco Customer Churn Prediction *(Private for now)*  
-  Machine learning model predicting churn with 82% accuracy using Random Forest and business insights.
+- 🧠 [Image Sentiment Analysis](https://github.com/Camellia-Mohamed/Image_Sentiment_Analysis)  
+  Web app that extracts text from images using OCR and performs sentiment analysis using machine learning.
+  
+- 📊 [Telco Customer Churn Prediction](https://github.com/Camellia-Mohamed/Telco-Customer-Churn-Prediction) 
+  Machine learning model predicting churn with 93% recall accuracy and business insights.
 
 ---
 
